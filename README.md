@@ -2,8 +2,10 @@
 practice with github flow.
 
 
-This is Dave Loeppky & Sharon.
+This is David Loeppky & Sharon.
 
 
 
 Add some more text.
+
+e have 3 kids.
